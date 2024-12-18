@@ -20,7 +20,7 @@ This is a rhythm game built using Python and Pygame.
 - Score tracking and grading system.
 
 ## Demonstration
-(\images\1.png)
+![GitHub图像](/images/1.png)
 
 
 ## Running the Game
